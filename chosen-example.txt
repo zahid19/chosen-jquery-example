@@ -1,0 +1,5 @@
+// EXAMPLE 1
+$('#username').chosen({ width: '100%' }); 
+
+// EXAMPLE 2
+$('#username').chosen('destroy');
