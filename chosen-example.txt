@@ -3,3 +3,6 @@ $('#username').chosen({ width: '100%' });
 
 // EXAMPLE 2
 $('#username').chosen('destroy');
+
+// font size
+$(".chosen-results").css('font-size','13px');
